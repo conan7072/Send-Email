@@ -21,5 +21,4 @@ class Send_Email():
 
 
 if __name__ == '__main__':
-    Email=Send_Email('mrtknecht@gmail.com','Qwerty123!?','mrtknecht@gmail.com')
-    Email.send('This is a try')
+    pass
